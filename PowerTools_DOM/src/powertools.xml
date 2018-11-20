@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<powertools>
+    <powertool>
+        <model>PRACTYL 500</model>
+        <handly>two handed</handly>
+        <origin>China</origin>
+        <specifications>
+            <capacity>500W</capacity>
+            <cartrydge_type>with key</cartrydge_type>
+            <speed>3200 rpm</speed>
+            <application>drilling</application>
+        </specifications>
+    </powertool>
+
+    <powertool>
+        <model>Stanley Fatmax</model>
+        <handly>two handed</handly>
+        <origin>USA</origin>
+        <specifications>
+            <capacity>750W</capacity>
+            <cartrydge_type>quick clamping</cartrydge_type>
+            <speed>3100 rpm</speed>
+            <application>drilling</application>
+        </specifications>
+    </powertool>
+
+    <powertool>
+        <model>Dexter power 650</model>
+        <handly>two handed</handly>
+        <origin>China</origin>
+        <specifications>
+            <capacity>750W</capacity>
+            <cartrydge_type>quick clamping</cartrydge_type>
+            <speed>3100 rpm</speed>
+            <application>drilling</application>
+        </specifications>
+    </powertool>
+</powertools>
